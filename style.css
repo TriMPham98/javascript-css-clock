@@ -40,4 +40,6 @@ body {
   background: black;
   position: absolute;
   top: 50%;
+  /* TODO: Transform the origin at the end of the x-axis of the hand instead of the middle */
+  /* TODO: Rotate the hands to start at 12 o' clock (+90 degrees) */
 }
